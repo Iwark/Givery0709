@@ -1,6 +1,6 @@
-
-# Hack2048
+## Swiftで始めるiOS開発
 
 <br>
+資料  
 
-「2048」というゲームで遊んでお待ちください。
+http://iwark.github.io/Givery0709/
